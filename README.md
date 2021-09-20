@@ -8,4 +8,24 @@
 - 📱  Contacto: +56935966506
 - 📱  Contacto Secundario: +56935544158
 - 📧 Correo: devbarrera@hotmail.com
+- ✅ Linkedin: https://www.linkedin.com/in/yerko-andres-barrera-pantoja-a82821123/
 
+Conocimientos Desarrollo Web:
+
+- HTML5
+- CSS3
+- SASS
+- JavaScript Moderno
+- React
+- C# ASP.NET MVC
+
+Conocimientos Base de Datos:
+
+- SQL Server 2018
+- MySQL XAMPP
+
+Conocimientos IDE:
+
+- Visual Studio Code
+- Sublime Text 3
+- Visual Studio 2019 Community
