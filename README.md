@@ -6,5 +6,6 @@
 - 🧑📚 Actualmente me encuentro realizando cursos de programacion relacionado a Javascript Moderno, SASS, React
 - 💼 Me encuentro en la busqueda de obtener mi primer empleo como programador para poder obtener experiencia  
 - 📱  Contacto: +56935966506
+- 📱  Contacto Secundario: +56935544158
 - 📧 Correo: devbarrera@hotmail.com
 
