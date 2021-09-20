@@ -1,5 +1,5 @@
 
-  Yerko Barrera - Desarrollador de Aplicaciones Web 💻
+     Yerko Barrera - Desarrollador de Aplicaciones Web 💻
 
 - 👨‍💼 Hola Me presento me llamo Yerko Barrera titulado de la carrera Tecnico Programador Computacional 2020
 - 💻 Me gusta mucho la programacion enfocada al Desarrollo de Aplicaciones Web    
